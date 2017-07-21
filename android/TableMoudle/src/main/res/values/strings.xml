@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">fixtable</string>
+    <string name="dpf_header_time">员工</string>
+    <string name="dpf_state_bookinged">已预订</string>
+    <string name="dpf_state_booking">预订中</string>
+</resources>

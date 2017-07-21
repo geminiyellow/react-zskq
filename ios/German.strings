@@ -1,0 +1,27 @@
+/* 
+  German.strings
+  ZSKQ
+
+  Created by Andy Wu on 4/7/17.
+  Copyright © 2017 Facebook. All rights reserved.
+*/
+
+// 德语
+
+"确定" = "Bestätigen";
+"取消" = "Zurückziehen";
+
+"年" = "Jahr";
+"月" = "Monat";
+"日" = "Tag";
+"时" = "Stunde";
+"分" = "Minute";
+"秒" = "Sekunde";
+
+"周日" = "So.";
+"周一" = "Mo.";
+"周二" = "Di.";
+"周三" = "Mi.";
+"周四" = "Do.";
+"周五" = "Fr.";
+"周六" = "Sa.";

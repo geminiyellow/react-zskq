@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rectangle_markerContent"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:paddingTop="5dp"
+    android:paddingBottom="5dp"
+    >
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/rectangle_tvContent"
+        android:layout_width="wrap_content"
+        android:layout_height="25dp"
+        android:layout_centerHorizontal="true"
+        android:text="0"
+        android:maxLines="1"
+        android:background="@drawable/rectangle__marker"
+        android:gravity="center"
+        android:textSize="12sp"
+        android:textColor="@android:color/white"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+    />
+
+</RelativeLayout>

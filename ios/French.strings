@@ -1,0 +1,26 @@
+/* 
+  French.strings
+  ZSKQ
+
+  Created by Andy Wu on 3/24/17.
+  Copyright © 2017 Facebook. All rights reserved.
+*/
+// 法语
+
+"确定" = "Terminé";
+"取消" = "Annuler";
+
+"年" = "Année";
+"月" = "Mois";
+"日" = "Jour";
+"时" = "Heure";
+"分" = "Minute";
+"秒" = "Seconde";
+
+"周日" = "Dimanche";
+"周一" = "Lundi";
+"周二" = "Mardi";
+"周三" = "Mercredi";
+"周四" = "Jeudi";
+"周五" = "Vendredi";
+"周六" = "Samedi";

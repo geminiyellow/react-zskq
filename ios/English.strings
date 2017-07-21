@@ -1,0 +1,27 @@
+/* 
+  English.strings
+  DatePickerDemo
+
+  Created by AndyWu on 1/18/17.
+  Copyright © 2017 Facebook. All rights reserved.
+*/
+
+// 英语
+
+"确定" = "Done";
+"取消" = "Cancel";
+
+"年" = "Year";
+"月" = "Month";
+"日" = "Day";
+"时" = "Hour";
+"分" = "Minute";
+"秒" = "Second";
+
+"周日" = "Sun";
+"周一" = "Mon";
+"周二" = "Tue";
+"周三" = "Wed";
+"周四" = "Thu";
+"周五" = "Fri";
+"周六" = "Sat";

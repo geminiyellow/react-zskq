@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dp_40">40dp</dimen>
+    <dimen name="text_font_normal">13sp</dimen>
+    <dimen name="dpf_cell_height">44dp</dimen>
+</resources>

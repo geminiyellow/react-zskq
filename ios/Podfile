@@ -1,0 +1,43 @@
+platform :ios, '8.0'
+
+install! 'cocoapods', :deterministic_uuids => false
+inhibit_all_warnings!
+
+target :ZSKQ do
+    source 'https://github.com/CocoaPods/Specs.git'
+
+    pod 'BaiduMapKit', '3.2.1'
+    pod 'BVLinearGradient', :path => '../node_modules/react-native-linear-gradient'
+    pod 'CodePush', :path => '../node_modules/react-native-code-push'
+    pod 'EBForeNotification', '1.0.7'
+    pod 'IQKeyboardManager', '4.0.8'
+    pod 'JPush', '3.0.2'
+    pod 'MBProgressHUD', '1.0.0'
+    pod 'React', :path => '../node_modules/react-native', :subspecs => [
+        'Core',
+        'RCTActionSheet',
+        'RCTAnimation',
+        'RCTGeolocation',
+        'RCTImage',
+        'RCTLinkingIOS',
+        'RCTNetwork',
+        'RCTPushNotification',
+        'RCTSettings',
+        'RCTText',
+        'RCTVibration',
+        'RCTWebSocket',
+        'BatchedBridge',
+    ]
+    pod 'react-native-camera', :path => '../node_modules/react-native-camera'
+    pod 'RNDeviceInfo', :path => '../node_modules/react-native-device-info'
+    pod 'RNI18n', :path => '../node_modules/react-native-i18n'
+    pod 'SAMKeychain', '1.5.2'
+    pod 'UMengAnalytics', '4.2.4'
+    pod 'Yoga', :path => '../node_modules/react-native/ReactCommon/yoga'
+	  pod 'Fingertips', '0.5.0'
+    pod 'UMengUShare/UI'
+    pod 'UMengUShare/Social/ReducedWeChat'
+    pod 'UMengUShare/Social/ReducedQQ'
+    pod 'UMengUShare/Social/ReducedSina'
+    pod 'UMengUShare/Social/SMS'
+end

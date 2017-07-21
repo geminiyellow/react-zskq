@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/empty_chart_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="40dp"
+        android:layout_height="30dp"
+        android:src="@drawable/icon_chart" />
+
+    <TextView
+        android:id="@+id/tv_empty_chart_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:textSize="16sp"
+        android:text="无数据"
+        android:textColor="@android:color/black"
+        android:gravity="center"
+        android:maxLines="1" />
+
+    <TextView
+        android:id="@+id/tv_empty_chart_desc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:textSize="13sp"
+        android:text="详细描述"
+        android:gravity="center"
+        android:maxLines="1" />
+
+</LinearLayout>

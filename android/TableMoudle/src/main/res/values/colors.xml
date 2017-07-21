@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="text_content_black">#333333</color>
+    <color name="dpf_title_bg">#DCDCDC</color>
+    <color name="dpf_gray_bg">#F8F8F8</color>
+    <color name="color_white">#FFFFFF</color>
+    <color name="dpf_timerow_bg">#F1F1F1</color>
+    <color name="completevalue_color">#14BE4B</color>
+</resources>

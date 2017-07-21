@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 头部button的颜色 -->
+    <color name="pickerview_timebtn_nor">#14be4b</color>
+    <color name="pickerview_timebtn_pre">#7df5aa</color>
+
+    <!-- 头部title的颜色 -->
+    <color name="pickerview_topbar_title">#a3a3a3</color>
+
+    <!-- 头部背景颜色 -->
+    <color name="pickerview_bg_topbar">#ffffff</color>
+
+    <!-- 头部与中间的线条的颜色 -->
+    <color name="bgColor_head_line">#f5f5f5</color>
+
+    <!-- 单位的颜色 -->
+    <color name="button_bg_text">#000000</color>
+
+    <!-- 滑动字体的颜色 -->
+    <color name="pickerview_wheelview_textcolor_first_out">#66000000</color>
+    <color name="pickerview_wheelview_textcolor_second_out">#B2000000</color>
+    <color name="pickerview_wheelview_textcolor_center">#000000</color>
+    <color name="pickerview_wheelview_textcolor_divider">#d5d5d5</color>
+
+
+    <!--覆盖颜色-->
+    <color name="bgColor_overlay">#7F000000</color>
+
+    <!-- 滑动的背景颜色 -->
+    <color name="scroll_bg">#eeeeee</color>
+
+    <!-- 中间选中的item的背景颜色 -->
+    <color name="select_item_bg">#ffffff</color>
+
+
+</resources>

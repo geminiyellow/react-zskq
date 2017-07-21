@@ -1,0 +1,147 @@
+PODS:
+  - BaiduMapKit (3.2.1)
+  - BVLinearGradient (2.0.0):
+    - React
+  - CodePush (3.0.0):
+    - CodePush/Core (= 3.0.0)
+    - CodePush/SSZipArchive (= 3.0.0)
+    - React
+  - CodePush/Core (3.0.0):
+    - React
+  - CodePush/SSZipArchive (3.0.0):
+    - React
+  - EBForeNotification (1.0.7)
+  - Fingertips (0.5.0)
+  - IQKeyboardManager (4.0.8)
+  - JCore (1.1.5)
+  - JPush (3.0.2):
+    - JCore (~> 1.1.1)
+  - MBProgressHUD (1.0.0)
+  - React (0.45.1):
+    - React/Core (= 0.45.1)
+  - react-native-camera (0.6.0):
+    - React
+  - React/BatchedBridge (0.45.1):
+    - React/Core
+    - React/cxxreact_legacy
+  - React/Core (0.45.1):
+    - Yoga (= 0.45.1.React)
+  - React/cxxreact_legacy (0.45.1):
+    - React/jschelpers_legacy
+  - React/jschelpers_legacy (0.45.1)
+  - React/RCTActionSheet (0.45.1):
+    - React/Core
+  - React/RCTAnimation (0.45.1):
+    - React/Core
+  - React/RCTGeolocation (0.45.1):
+    - React/Core
+  - React/RCTImage (0.45.1):
+    - React/Core
+    - React/RCTNetwork
+  - React/RCTLinkingIOS (0.45.1):
+    - React/Core
+  - React/RCTNetwork (0.45.1):
+    - React/Core
+  - React/RCTPushNotification (0.45.1):
+    - React/Core
+  - React/RCTSettings (0.45.1):
+    - React/Core
+  - React/RCTText (0.45.1):
+    - React/Core
+  - React/RCTVibration (0.45.1):
+    - React/Core
+  - React/RCTWebSocket (0.45.1):
+    - React/Core
+  - RNDeviceInfo (0.9.3):
+    - React
+  - RNI18n (1.0.0):
+    - React
+  - SAMKeychain (1.5.2)
+  - UMengAnalytics (4.2.4)
+  - UMengUShare/Core (6.4.5):
+    - UMengUShare/Network
+  - UMengUShare/Network (6.4.5)
+  - UMengUShare/Social/ReducedQQ (6.4.5):
+    - UMengUShare/Core
+  - UMengUShare/Social/ReducedSina (6.4.5):
+    - UMengUShare/Core
+  - UMengUShare/Social/ReducedWeChat (6.4.5):
+    - UMengUShare/Core
+  - UMengUShare/Social/SMS (6.4.5):
+    - UMengUShare/Core
+  - UMengUShare/UI (6.4.5):
+    - UMengUShare/Core
+  - Yoga (0.45.1.React)
+
+DEPENDENCIES:
+  - BaiduMapKit (= 3.2.1)
+  - BVLinearGradient (from `../node_modules/react-native-linear-gradient`)
+  - CodePush (from `../node_modules/react-native-code-push`)
+  - EBForeNotification (= 1.0.7)
+  - Fingertips (= 0.5.0)
+  - IQKeyboardManager (= 4.0.8)
+  - JPush (= 3.0.2)
+  - MBProgressHUD (= 1.0.0)
+  - react-native-camera (from `../node_modules/react-native-camera`)
+  - React/BatchedBridge (from `../node_modules/react-native`)
+  - React/Core (from `../node_modules/react-native`)
+  - React/RCTActionSheet (from `../node_modules/react-native`)
+  - React/RCTAnimation (from `../node_modules/react-native`)
+  - React/RCTGeolocation (from `../node_modules/react-native`)
+  - React/RCTImage (from `../node_modules/react-native`)
+  - React/RCTLinkingIOS (from `../node_modules/react-native`)
+  - React/RCTNetwork (from `../node_modules/react-native`)
+  - React/RCTPushNotification (from `../node_modules/react-native`)
+  - React/RCTSettings (from `../node_modules/react-native`)
+  - React/RCTText (from `../node_modules/react-native`)
+  - React/RCTVibration (from `../node_modules/react-native`)
+  - React/RCTWebSocket (from `../node_modules/react-native`)
+  - RNDeviceInfo (from `../node_modules/react-native-device-info`)
+  - RNI18n (from `../node_modules/react-native-i18n`)
+  - SAMKeychain (= 1.5.2)
+  - UMengAnalytics (= 4.2.4)
+  - UMengUShare/Social/ReducedQQ
+  - UMengUShare/Social/ReducedSina
+  - UMengUShare/Social/ReducedWeChat
+  - UMengUShare/Social/SMS
+  - UMengUShare/UI
+  - Yoga (from `../node_modules/react-native/ReactCommon/yoga`)
+
+EXTERNAL SOURCES:
+  BVLinearGradient:
+    :path: ../node_modules/react-native-linear-gradient
+  CodePush:
+    :path: ../node_modules/react-native-code-push
+  React:
+    :path: ../node_modules/react-native
+  react-native-camera:
+    :path: ../node_modules/react-native-camera
+  RNDeviceInfo:
+    :path: ../node_modules/react-native-device-info
+  RNI18n:
+    :path: ../node_modules/react-native-i18n
+  Yoga:
+    :path: ../node_modules/react-native/ReactCommon/yoga
+
+SPEC CHECKSUMS:
+  BaiduMapKit: 9c748785aa3dddfc41dcb70c14b21ce32f680930
+  BVLinearGradient: 2141b67ea06d9b1077ca68c9d6f89fa38c5f8450
+  CodePush: f5410e04ae5ce99c6de50b5d206b632ad2c591ce
+  EBForeNotification: d2426fa084f7af912c665b80529cfb3fe5dbdb79
+  Fingertips: 8e557eed25253fcb4bfa25ac4418f8e8add1ad9a
+  IQKeyboardManager: 1a8189fa153bf09044355ee0ad36826f6767e7f7
+  JCore: 9bd9c770c877c583d98b90a68792b8361974c231
+  JPush: 01a693fafe51b93eafc2e368bbc7a7cc07e12ce4
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  React: 0c9191a8b0c843d7004f950ac6b5f6cba9d125c7
+  react-native-camera: ebf436c2e81668a06572f651ab1eb19359291944
+  RNDeviceInfo: dc3cbee96cd2392cf03d6ff6191dc15f1606a166
+  RNI18n: b4106e324e080bdab08c7df811a0b60e787e496d
+  SAMKeychain: 1865333198217411f35327e8da61b43de79b635b
+  UMengAnalytics: ef8d45f94c0e5771dc364cf6a5731d9d3b101da2
+  UMengUShare: a5711c54e640b04e3048e931d2b88d50f9cfa55c
+  Yoga: 89c8738d42a0b46a113acb4e574336d61cba2985
+
+PODFILE CHECKSUM: cae8b8c6bd36ddfa59dee246279151c7c9250644
+
+COCOAPODS: 1.2.1

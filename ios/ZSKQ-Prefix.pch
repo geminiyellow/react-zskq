@@ -1,0 +1,16 @@
+//
+//  ZSKQ-Prefix.pch
+//  ZSKQ
+//
+//  Created by Tadas.Gao on 16/8/22.
+//  Copyright © 2016年 Facebook. All rights reserved.
+//
+
+#ifndef ZSKQ_Prefix_pch
+#define ZSKQ_Prefix_pch
+
+#import "Consts.h"
+#import "Keychain.h"
+#import "Util.h"
+
+#endif /* ZSKQ_Prefix_pch */
